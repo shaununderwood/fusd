@@ -3,7 +3,7 @@
 //
 // If this script returns false, 
 // the most likely cause is that the account has not been set up with an FUSD vault.
-// To fix this, the user should execute transactions/setup_account.cdc.
+// To fix this, the user should execute transactions/setup_fusd_vault.cdc.
 //
 // Parameters:
 // - address: The address of the account to check.
